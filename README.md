@@ -1,0 +1,6 @@
+# WestProPlus
+WestProPlus software and documentation
+This repository documents the use of WestProPlus under new version of Microsoft Excel, and provides useful updates to 
+Liang, Jingjing; Buongiorno, Joseph; Monserud, Robert A. 2006. WestProPlus: a stochastic spreadsheet program for the management of all-aged Douglas-fir – western hemlock forests in the Pacific Northwest.
+WestProPlus is an add-in program developed to work with Microsoft Excel to simulate the growth and management of all-aged Douglas-fir – western hemlock (Pseudotsuga menziesii (Mirb.) Franco – Tsuga heterophylla (Raf.) Sarg.) stands in Oregon and Washington.  Its built-in growth model was calibrated from 2,706 permanent plots in the Douglas-fir – western hemlock forest type in Oregon and Washington. Stands are described by the number of trees per acre in each of nineteen 2-in diameter classes in four species groups: Douglas-fir, other shade-intolerant species, western hemlock, and other shade-tolerant species.  
+This manual documents the program installation and activation, provides suggestions for working with Excel, and gives background information on WestProPlus’s models. It offers a comprehensive tutorial in the form of two practical examples that explain how to start the program, enter simulation data, execute a simulation, compare simulations, and plot summary statistics. 
